@@ -43,21 +43,18 @@
   </a>
 </p>
 
-</br>
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
 </p>
 
-</br>
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left"> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> 
   </a>
 </p>
 
-</br>
 <h3 align="left">Databases:</h3>
 <p align="left"> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
@@ -66,7 +63,6 @@
   </a>
 </p>
 
-</br>
 <h3 align="left">Dev Tools:</h3>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -80,6 +76,7 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
   </a>
 </p>
+</br>
 
 ### Quick Stats:
 
