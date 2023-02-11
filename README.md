@@ -81,8 +81,9 @@
 ### Quick Stats:
 
 <a href="https://github.com/callme-ocean">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=callme-ocean&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callme-ocean&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=callme-ocean&theme=codeSTACKr&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callme-ocean&theme=codeSTACKr&layout=compact" />
+  <!-- <img alt="Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=thelabuzov&show_icons=true&hide_border=true&theme=onedark"> -->
 </a>
 
 <!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda) -->
