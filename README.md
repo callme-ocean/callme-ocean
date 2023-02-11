@@ -1,10 +1,17 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+
+<h3 align="center" style="text-decoration:none"> < Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sagar /> </h3>
+
+<p align="center">A passionate Software Developer from India</p>
+
+---
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=callme-ocean&label=Profile%20views&color=0e75b6&style=flat" alt="callme-ocean" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=callme-ocean&label=Profile%20views&color=fd6744&style=flat" alt="callme-ocean" />
+</p>
 
 <!-- <p align="left"> <a href="www.linkedin.com/in/sagarbhadouria" target="blank"><img src="https://img.shields.io/linkedin/follow/rishavchanda?logo=linkedin&style=for-the-badge" alt="sagar" /></a>
 </p> -->
@@ -19,13 +26,18 @@
 
 - ⚡ Fun fact **I am Funny**
 
-</br>
+═════════════════ ⋆★⋆ ═════════════════
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+  <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" />
+  </a>
 </p>
 
 </br>
@@ -87,10 +99,20 @@
   <!-- <img alt="Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=thelabuzov&show_icons=true&hide_border=true&theme=onedark"> -->
 </a>
 
-<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda) -->
+</br>
+</br>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=callme-ocean&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="callme-ocean" /></p>
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=callme-ocean&bg_color=131314&color=fd6744&line=ffffff&point=fd6744)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callme-ocean&show_icons=true&locale=en&theme=tokyonight" alt="callme-ocean" /></p> -->
+<!-- ---
+<h3 align="center"> Highlighted projects</h3>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callme-ocean&&theme=tokyonight" alt="callme-ocean" /></p> -->
+---
+
+
+|      |          |
+| ------------- |:-------------:|
+| <a href="url"><img src="https://github.com/HoldUpFjord/ConservationHub/blob/244471bf1f39f0bb0d2eb571da0e1dc121fee7ff/conservationHubFlow.gif" align="left" height="250" width="400" ></a> | <a href="url"><img src="https://github.com/HoldUpFjord/spotApiProject/blob/main/demoGif/spotifyApi.gif" align="left" height="250" width="400" ></a>
+ |<h6 align="center">HTML5, TailWind CSS, Javascript, Node.js, Express, MondoDB</h6> <p align="center"> A fullstack app that aids Conservation Organizations with tracking and maintaing workflows of field techs </p> | <h6> HTML5, Boostrap, Fetch API, Asynchrous Javascript, CRUD</h6> <p>Taking Spotify's api allowing users to sort by Genre, popular playlists by tracks within that playlist.
+| <a href="url"><img src="https://github.com/HoldUpFjord/rnrHomeServices/blob/90fa71a82e98cf4f9a69b4afc757cf1aa0ecff61/assets/demoGif/ezgif.com-gif-maker(1).gif" aling="center" height="250" width="400" ></a>     | ![site gif](https://github.com/HoldUpFjord/barberShop/blob/master/assets/demoGif/ezgif.com-gif-maker.gif)    |
+  | <h6 align="center">HTML5, CSS3, Javascript</h6> <p align="center">A statically hosted website for a local handyman. Very simple contact link and a carousel to showcase style of work done. |        <h6 align="center">HTML5, CSS3, Javascript</h6> <p align="center"> Showcases a stylish barber site layout. </p>  | -->
