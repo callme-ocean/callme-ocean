@@ -80,7 +80,7 @@
 <p align="right">
 <!--   <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
   </a> -->
-  <a href="www.linkedin.com/in/sagarbhadouria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarbhadouria" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/sagarbhadouria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarbhadouria" height="30" width="40" />
   </a>
   <a href="https://instagram.com/sagar_jersey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_jersey10" height="30" width="40" />
   </a>
