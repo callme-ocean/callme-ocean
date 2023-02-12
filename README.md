@@ -17,21 +17,28 @@
 
 </div>
 
-<!-- <p align="center"> 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
-</p> -->
-
 ---
 
-<!-- <p align="center"> 
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p> -->
+<img align="left" src="myStickers/hi.png" height="230px"/>
+ 
+ 
+```csharp
+    About Me
+    ------------------------------------------
+    * 🔭 I’m currently working on > Springboot Microservices
 
+    * 🌱 I’m currently learning > DevOps
 
-<!-- <p align="left"> <a href="www.linkedin.com/in/sagarbhadouria" target="blank"><img src="https://img.shields.io/linkedin/follow/rishavchanda?logo=linkedin&style=for-the-badge" alt="sagar" /></a>
-</p> -->
+    * 💬 Ask me about > Java , Sprringboot
 
-- 🔭 I’m currently working on **Springboot Microservices**
+    * 📫 How to reach me > sagarsingh0802@gmail.com
+
+    * ⚡ Fun fact > I am Funny
+
+```
+  
+
+<!-- - 🔭 I’m currently working on **Springboot Microservices**
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -43,12 +50,13 @@
 
 - 📄 Want my resume **Download Here ⬇**
 
-═════════════════ ⋆★⋆ ═════════════════
-
-<h3 align="left">Connect with me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px">:</h3>
+═════════════════ ⋆★⋆ ═════════════════ -->
 
 
-<p align="left">
+<h3 align="right">Connect with me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h3>
+
+
+<p align="right">
   <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
@@ -61,6 +69,8 @@
 
 </br>
 
+
+<!--Old Skill Section -->
 <!-- <h3 align="center"> ⋆ Languages ⋆ </h3>
 <p align="center">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -112,6 +122,7 @@
 
 ---
 
+<!-- New Skills Section -->
 <h2 align="center"> ⋆ Skills ⋆ </h2>
 
 <table align="center">
@@ -175,6 +186,8 @@
 </table>
 
 ---
+
+<!-- Githun Stats Section -->
 <h2 align="center"> ⋆ My Github Stats ⋆ </h2>
 
 <div align="center">
@@ -199,13 +212,7 @@
 </div>
 
 
-<!-- <div align="center">
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callme-ocean&layout=compact&theme=dark" alt="callme-ocean" />
-  </p>
-</div> -->
-
-
+<!-- Projects Section -->
 <!-- ---
 <h3 align="center"> Highlighted projects</h3>
 
