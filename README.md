@@ -213,8 +213,8 @@
 
 <div align="center">
   <a href="https://github.com/callme-ocean">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=callme-ocean&theme=dark&show_icons=true&title_color=fd6744&text_color=ffffff&icon_color=fd6744" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callme-ocean&theme=dark&layout=compact&title_color=fd6744&text_color=ffffff&icon_color=fd6744" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=callme-ocean&theme=dark&show_icons=true&title_color=fd6744&text_color=ffffff&icon_color=fd6744" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callme-ocean&theme=dark&layout=compact&title_color=fd6744&text_color=ffffff&icon_color=fd6744" />
   </a>
 </div>
 
