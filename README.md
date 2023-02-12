@@ -80,11 +80,11 @@
 <p align="right">
 <!--   <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
   </a> -->
-  <a href="https://www.linkedin.com/in/sagar-bhadouria-84356b175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
+  <a href="www.linkedin.com/in/sagarbhadouria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarbhadouria" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sagar_jersey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" />
+  <a href="https://instagram.com/sagar_jersey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_jersey10" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" />
+  <a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jersey10" height="30" width="40" />
   </a>
 </p>
 
@@ -243,7 +243,7 @@
 <p align="left">
 <!--   <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
   </a> -->
-  <a href="https://www.linkedin.com/in/sagar-bhadouria-84356b175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-bhadouria-84356b175" height="30" width="40" />
+  <a href="www.linkedin.com/in/sagarbhadouria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarbhadouria" height="30" width="40" />
   </a>
   <a href="https://instagram.com/sagar_jersey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_jersey10" height="30" width="40" />
   </a>
