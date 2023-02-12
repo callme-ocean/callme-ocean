@@ -24,16 +24,16 @@
   
   <h3 align="center" style="text-decoration:none"> < Hello World <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sagar /> </h3>
 
-<div align="center">
+  <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD6744&center=true&vCenter=true&width=435&lines=Java+Developer;Backend+Developer;Fullstack+Developer)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD6744&center=true&vCenter=true&width=435&lines=Java+Developer;Backend+Developer;Fullstack+Developer)](https://git.io/typing-svg)
 
+  </div>
 </div>
-</div>
 
-<!-- </br> -->
 
-<div align="left">
+<!-- Old About Me -->
+<!-- <div align="left">
 
   ```csharp
     About Me
@@ -49,23 +49,29 @@
     * ⚡ Fun fact > I am Funny
   ```
 
+</div> -->
+
+
+<div>  
+  <h2></h2>
+  
+  - 🔭 I’m currently working on **Springboot Microservices**
+
+  - 🌱 I’m currently learning **DevOps**
+
+  - 💬 Ask me about **Java , Sprringboot**
+
+  - 📫 How to reach me **sagarsingh0802@gmail.com**
+
+  - ⚡ Fun fact **I am Funny**
+
+  - 📄 Want my resume **Download Here ⬇**
+  
+  <h2></h2>
 </div>
 
-  
 
-<!-- - 🔭 I’m currently working on **Springboot Microservices**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Java , Sprringboot**
-
-- 📫 How to reach me **sagarsingh0802@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-- 📄 Want my resume **Download Here ⬇**
-
-═════════════════ ⋆★⋆ ═════════════════ -->
+<!-- ═════════════════ ⋆★⋆ ═════════════════ -->
 
 
 <h3 align="right">Connect with me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h3>
@@ -226,6 +232,25 @@
 
 </div>
 
+---
+
+<div>
+  <img align="right" src="myStickers/bye.png" height="400px" />
+  
+  <h3 align="left">Connect with me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h3>
+
+
+<p align="left">
+  <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" />
+  </a>
+</p>
+</div>
 
 <!-- Projects Section -->
 <!-- ---
