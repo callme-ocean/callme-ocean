@@ -5,7 +5,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"> -->
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img  src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif">
 </p>
 
@@ -15,14 +15,27 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD6744&center=true&vCenter=true&width=435&lines=Java+Developer;Backend+Developer;Fullstack+Developer)](https://git.io/typing-svg)
 
+</div> -->
+
+<!-- --- -->
+
+<div>
+  <img src="myStickers/hi.png" height="450px" />
+  
+  <h3 align="center" style="text-decoration:none"> < Hello World <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sagar /> </h3>
+
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD6744&center=true&vCenter=true&width=435&lines=Java+Developer;Backend+Developer;Fullstack+Developer)](https://git.io/typing-svg)
+
+</div>
 </div>
 
----
+<!-- </br> -->
 
-<img align="left" src="myStickers/hi.png" height="230px"/>
- 
- 
-```csharp
+<div align="left">
+
+  ```csharp
     About Me
     ------------------------------------------
     * 🔭 I’m currently working on > Springboot Microservices
@@ -34,8 +47,10 @@
     * 📫 How to reach me > sagarsingh0802@gmail.com
 
     * ⚡ Fun fact > I am Funny
+  ```
 
-```
+</div>
+
   
 
 <!-- - 🔭 I’m currently working on **Springboot Microservices**
