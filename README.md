@@ -20,7 +20,7 @@
 <!-- --- -->
 
 <div>
-  <img src="myStickers/hi.png" height="450px" />
+  <img src="myStickers/hi.png" height="400px" />
   
   <h3 align="center" style="text-decoration:none"> < Hello World <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sagar /> </h3>
 
