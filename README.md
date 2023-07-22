@@ -38,11 +38,11 @@
   ```csharp
     About Me
     ------------------------------------------
-    * 🔭 I’m currently working on > Springboot Microservices
+    * 🔭 I’m currently working on > Spring Boot Microservices
 
     * 🌱 I’m currently learning > DevOps
 
-    * 💬 Ask me about > Java , Sprringboot
+    * 💬 Ask me about > Java , Spring Boot
 
     * 📫 How to reach me > sagarsingh0802@gmail.com
 
@@ -55,11 +55,11 @@
 <div>  
   <h2></h2>
   
-  - 🔭 I’m currently working on **Springboot Microservices**
+  - 🔭 I’m currently working on **Spring Boot Microservices**
 
   - 🌱 I’m currently learning **DevOps**
 
-  - 💬 Ask me about **Java , Springboot**
+  - 💬 Ask me about **Java , Spring Boot**
 
   - 📫 How to reach me **sagarsingh0802@gmail.com**
 
