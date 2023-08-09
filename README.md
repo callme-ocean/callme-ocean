@@ -222,7 +222,7 @@
 
 <div align="center">
 
-  ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=callme-ocean&bg_color=131314&color=fd6744&line=ffffff&point=fd6744)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=callme-ocean&bg_color=131314&color=fd6744&line=ffffff&point=fd6744)
 
 </div>
 
