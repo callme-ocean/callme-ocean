@@ -65,7 +65,9 @@
 
   - ⚡ Fun fact **I am Funny**
 
-  - 📄 Want my resume **Download Here [⬇](resume/Sagar_Resume.pdf)**
+  - 📄 Want my resume **Download Here ⬇**
+
+[//]: # (  - 📄 Want my resume **Download Here [⬇]&#40;resume/Sagar_Resume.pdf&#41;**)
   
   <h2></h2>
 </div>
