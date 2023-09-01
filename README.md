@@ -265,7 +265,7 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
   <table align="center">
     <tr>
       <td>
-        <a href="https://www.oceanbytes.in/load-balancers-decoded-optimizing-performance-and-reliability/"><img width="140px" src="https://www.oceanbytes.in/storage/2023/08/load-balancer.webp">
+        <a href="https://www.oceanbytes.in/load-balancers-decoded-optimizing-performance-and-reliability/"><img width="140px" src="blogScreenshots/load-balancer.webp">
         </a>
       </td>
       <td>
