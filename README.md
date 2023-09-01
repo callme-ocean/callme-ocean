@@ -63,7 +63,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 🕵️‍♂️ Want to know more about me ? > **www.oceanbytes.in**
+- 🕵️‍♂️ Know more about me on **www.oceanbytes.in**
 
 - 📄 Want my resume **Download Here ⬇**
 
