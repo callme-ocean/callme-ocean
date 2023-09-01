@@ -61,9 +61,9 @@
 
 - 💬 Ask me about **Java , Spring Boot**
 
-- 📫 How to reach me **sagarsingh0802@gmail.com**
-
 - ⚡ Fun fact **I am Funny**
+
+- 🕵️‍♂️ Want to know more about me ? > **www.oceanbytes.in**
 
 - 📄 Want my resume **Download Here ⬇**
 
@@ -85,9 +85,13 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
   </a> -->
   <a href="https://www.linkedin.com/in/sagarbhadouria" target="blank"><img align="center" src="icons/social/linked-in-alt.svg" alt="sagarbhadouria" height="30" width="40" />
   </a>
+  <a href="mailto:sagarsingh0802@gmail.com" target="blank"><img align="center" src="icons/social/gmail.svg" alt="jersey10" height="35" width="40" />
+  </a>
+  <a href="https://www.oceanbytes.in/" target="blank"><img align="center" src="icons/social/WWW-logo.svg" alt="jersey10" height="35" width="40" />
+  </a>
   <a href="https://instagram.com/sagar_jersey10" target="blank"><img align="center" src="icons/social/instagram.svg" alt="sagar_jersey10" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="icons/social/youtube.svg" alt="jersey10" height="30" width="40" />
+  <a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="icons/social/youtube.svg" alt="jersey10" height="35" width="40" />
   </a>
 </p>
 
@@ -188,17 +192,17 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
       </td>
       <td>
         <p align="center"> 
-          <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="icons/framework/junit5.png" alt="junit5" width="40" height="40"/> 
+          <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="icons/framework/junit5.png" alt="junit5" width="40" height="40"/> 
           </a>
-          <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="icons/framework/Mockito_Logo.png" alt="mockito" width="60" height="25"/> 
+          <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="icons/framework/Mockito_Logo.png" alt="mockito" width="60" height="25"/> 
           </a>
         </p>
       </td>
       <td>
         <p align="center"> 
-          <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="icons/database/oracle-original.svg" alt="oracle" width="40" height="40"/>
+          <a href="https://www.oracle.com/in/database" target="_blank" rel="noreferrer"> <img src="icons/database/oracle-original.svg" alt="oracle" width="40" height="40"/>
           </a>
-          <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="icons/database/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/database/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
           </a>
         </p>
       </td>
@@ -255,23 +259,87 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
 
 ---
 
+<!-- Blog-Section:START -->
+<h2 align="center"> ⋆ My Latest Blogs ⋆ </h2>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.oceanbytes.in/load-balancers-decoded-optimizing-performance-and-reliability/"><img width="140px" src="https://www.oceanbytes.in/storage/2023/08/load-balancer.webp">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.oceanbytes.in/load-balancers-decoded-optimizing-performance-and-reliability/">Load Balancers Decoded: Optimizing Performance and Reliability
+        </a> <strong>| Mar 01, 2023</strong>
+        <br> 
+        As our user base expands, our application faces higher traffic, increasing the strain on a single server. This surge in concurrent visitors overwhelms the server...
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.oceanbytes.in/why-different-java-versions-and-distributions/"><img width="140px" src="https://www.oceanbytes.in/storage/2023/02/why.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.oceanbytes.in/why-different-java-versions-and-distributions">Why different Java versions and distributions?
+        </a> <strong>| Feb 08, 2023</strong>
+        <br> 
+        You can utilize this guide to obtain practical insights on locating and installing the most recent version of Java, comprehending the distinctions between various Java distribution... 
+      </td>
+    </tr>
+  </table>
+
+[//]: # (  <table align="center">)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>)
+
+[//]: # (        <a href="https://www.oceanbytes.in/why-different-java-versions-and-distributions/"><img width="140px" src="https://www.oceanbytes.in/storage/2023/02/why.png">)
+
+[//]: # (        </a>)
+
+[//]: # (      </td>)
+
+[//]: # (      <td>)
+
+[//]: # (        <a href="https://www.oceanbytes.in/why-different-java-versions-and-distributions">Why different Java versions and distributions?)
+
+[//]: # (        </a> <strong>| Feb 08, 2023</strong>)
+
+[//]: # (        <br> )
+
+[//]: # (        You can utilize this guide to obtain practical insights on locating and installing the most recent version of Java, comprehending the distinctions between various Java distribution... )
+
+[//]: # (      </td>)
+
+[//]: # (    </tr>)
+
+[//]: # (  </table>)
+</div>
+<!-- Blog-Section:END -->
+
+---
+
 <div>
   <img align="right" src="myStickers/bye.png" height="400px" />
-
-<h3 align="left">Connect with
-me<img align="center" src="gif/handshake.gif" height="32px"></h3>
-
-
-<p align="left">
-<!--   <a href="https://twitter.com/" target="blank"><img align="center" src="icons/social/twitter.svg" alt="sagar" height="30" width="40" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/sagarbhadouria" target="blank"><img align="center" src="icons/social/linked-in-alt.svg" alt="sagarbhadouria" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sagar_jersey10" target="blank"><img align="center" src="icons/social/instagram.svg" alt="sagar_jersey10" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="icons/social/youtube.svg" alt="jersey10" height="30" width="40" />
-  </a>
-</p>
+  <h3 align="left">Connect with
+    me<img align="center" src="gif/handshake.gif" height="32px">
+  </h3>
+  <p align="left">
+    <!--   <a href="https://twitter.com/" target="blank"><img align="center" src="icons/social/twitter.svg" alt="sagar" height="30" width="40" />
+      </a> -->
+    <a href="https://www.linkedin.com/in/sagarbhadouria" target="blank"><img align="center" src="icons/social/linked-in-alt.svg" alt="sagarbhadouria" height="30" width="40" />
+    </a>
+    <a href="mailto:sagarsingh0802@gmail.com" target="blank"><img align="center" src="icons/social/gmail.svg" alt="jersey10" height="35" width="40" />
+    </a>
+    <a href="https://www.oceanbytes.in/" target="blank"><img align="center" src="icons/social/WWW-logo.svg" alt="jersey10" height="35" width="40" />
+    </a>
+    <a href="https://instagram.com/sagar_jersey10" target="blank"><img align="center" src="icons/social/instagram.svg" alt="sagar_jersey10" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="icons/social/youtube.svg" alt="jersey10" height="35" width="40" />
+    </a>
+  </p>
 </div>
 
 
@@ -282,10 +350,13 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
 [//]: # (<h3 align="center"> Highlighted projects</h3>)
 
 [//]: # ()
+
 [//]: # (---)
 
 [//]: # ()
+
 [//]: # ()
+
 [//]: # (|      |          |)
 
 [//]: # (| ------------- |:-------------:|)
