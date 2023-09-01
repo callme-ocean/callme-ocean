@@ -154,7 +154,9 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
       <th align="center">Languages</th>
       <th align="center">Frontend Frameworks</th>
       <th align="center">Backend Frameworks</th>
+      <th align="center">Testing</th>
       <th align="center">Databases</th>
+      <th align="center">Content Management Systems</th>
       <th align="center">Dev Tools</th>
     </tr>
     <tr>
@@ -186,9 +188,23 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
       </td>
       <td>
         <p align="center"> 
-          <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="icons/database/oracle-original.svg" alt="oracle" width="40" height="40"/>
+          <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="icons/framework/junit5.png" alt="junit5" width="40" height="40"/> 
           </a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/database/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+          <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="icons/framework/Mockito_Logo.png" alt="mockito" width="60" height="25"/> 
+          </a>
+        </p>
+      </td>
+      <td>
+        <p align="center"> 
+          <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="icons/database/oracle-original.svg" alt="oracle" width="40" height="40"/>
+          </a>
+          <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="icons/database/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+          </a>
+        </p>
+      </td>
+      <td>
+        <p align="center"> 
+          <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="icons/cms/wordpress-plain.svg" alt="git" width="40" height="40"/> 
           </a>
         </p>
       </td>
@@ -196,9 +212,11 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
         <p align="center"> 
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/git-scm-icon.svg" alt="git" width="40" height="40"/> 
           </a>
-          <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+          <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
           </a>
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+          </a>
+          <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/intellij-idea.png" alt="ansible" width="40" height="40"/>
           </a>
           <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/getpostman-icon.svg" alt="postman" width="40" height="40"/>
           </a>
