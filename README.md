@@ -69,20 +69,20 @@
 
 [//]: # (  - 📄 Want my resume **Download Here [⬇]&#40;resume/Sagar_Resume.pdf&#41;**)
 
-<h2></h2>
+  <h2></h2>
 </div>
 
 
 <!-- ═════════════════ ⋆★⋆ ═════════════════ -->
 
-
+<!-- Socials-Section:START -->
 <h3 align="right">Connect with
-me<img align="center" src="gif/handshake.gif" height="32px"></h3>
-
+me<img align="center" src="gif/handshake.gif" height="32px">
+</h3>
 
 <p align="right">
-<!--   <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
-  </a> -->
+  <!--   <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
+    </a> -->
   <a href="https://www.linkedin.com/in/sagarbhadouria" target="blank"><img align="center" src="icons/social/linked-in-alt.svg" alt="sagarbhadouria" height="30" width="40" />
   </a>
   <a href="mailto:sagarsingh0802@gmail.com" target="blank"><img align="center" src="icons/social/gmail.svg" alt="jersey10" height="35" width="40" />
@@ -94,6 +94,7 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
   <a href="https://www.youtube.com/c/jersey10" target="blank"><img align="center" src="icons/social/youtube.svg" alt="jersey10" height="35" width="40" />
   </a>
 </p>
+<!-- Socials-Section:END -->
 
 </br>
 
@@ -150,90 +151,90 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
 
 ---
 
-<!-- New Skills Section -->
+<!-- New-Skills-Section:START -->
 <h2 align="center"> ⋆ Skills ⋆ </h2>
-
 <table align="center">
-    <tr>
-      <th align="center">Languages</th>
-      <th align="center">Frontend Frameworks</th>
-      <th align="center">Backend Frameworks</th>
-      <th align="center">Testing</th>
-      <th align="center">Databases</th>
-      <th align="center">Content Management Systems</th>
-      <th align="center">Dev Tools</th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="icons/language/java-original.svg" alt="java" width="40" height="40"/>
-          </a>
-          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/language/c-original.svg" alt="c" width="40" height="40"/>
-          </a>
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/language/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-          </a>
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/language/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-          </a>
-          <a href="#" target="_blank" rel="noreferrer"> <img src="icons/language/bash-original.svg" alt="bash" width="40" height="40"/>
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="icons/framework/angular.svg" alt="angular" width="40" height="40"/>
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center"> 
-          <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="icons/framework/spring-original.svg" alt="springboot" width="40" height="40"/> 
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center"> 
-          <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="icons/framework/junit5.png" alt="junit5" width="40" height="40"/> 
-          </a>
-          <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="icons/framework/Mockito_Logo.png" alt="mockito" width="60" height="25"/> 
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center"> 
-          <a href="https://www.oracle.com/in/database" target="_blank" rel="noreferrer"> <img src="icons/database/oracle-original.svg" alt="oracle" width="40" height="40"/>
-          </a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/database/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center"> 
-          <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="icons/cms/wordpress-plain.svg" alt="git" width="40" height="40"/> 
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center"> 
-          <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-          </a>
-          <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-          </a>
-          <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-          </a>
-          <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/intellij-idea.png" alt="ansible" width="40" height="40"/>
-          </a>
-          <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-          </a>
-          <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/ansible-original.svg" alt="ansible" width="40" height="40"/>
-          </a>
-        </p>
-      </td>
-    </tr>
+  <tr>
+    <th align="center">Languages</th>
+    <th align="center">Frontend Frameworks</th>
+    <th align="center">Backend Frameworks</th>
+    <th align="center">Testing</th>
+    <th align="center">Databases</th>
+    <th align="center">Content Management Systems</th>
+    <th align="center">Dev Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="icons/language/java-original.svg" alt="java" width="40" height="40"/>
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/language/c-original.svg" alt="c" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/language/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/language/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        </a>
+        <a href="#" target="_blank" rel="noreferrer"> <img src="icons/language/bash-original.svg" alt="bash" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="icons/framework/angular.svg" alt="angular" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="icons/framework/spring-original.svg" alt="springboot" width="40" height="40"/> 
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="icons/framework/junit5.png" alt="junit5" width="40" height="40"/> 
+        </a>
+        <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="icons/framework/Mockito_Logo.png" alt="mockito" width="60" height="25"/> 
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <a href="https://www.oracle.com/in/database" target="_blank" rel="noreferrer"> <img src="icons/database/oracle-original.svg" alt="oracle" width="40" height="40"/>
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/database/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="icons/cms/wordpress-plain.svg" alt="git" width="40" height="40"/> 
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+        </a>
+        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+        </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        </a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/intellij-idea.png" alt="ansible" width="40" height="40"/>
+        </a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        </a>
+        <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="icons/dev-tool/ansible-original.svg" alt="ansible" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
+<!-- New-Skills-Section:END -->
 
 ---
 
-<!-- Githun Stats Section -->
+<!-- Github-Stats-Section:START -->
 <h2 align="center"> ⋆ My Github Stats ⋆ </h2>
 
 <div align="center">
@@ -256,6 +257,7 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
 [![GitHub Streak](https://streak-stats.demolab.com?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)](https://git.io/streak-stats)
 
 </div>
+<!-- Github-Stats-Section:END -->
 
 ---
 
@@ -321,6 +323,7 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
 
 ---
 
+<!-- Social-Section:START -->
 <div>
   <img align="right" src="myStickers/bye.png" height="400px" />
   <h3 align="left">Connect with
@@ -341,6 +344,7 @@ me<img align="center" src="gif/handshake.gif" height="32px"></h3>
     </a>
   </p>
 </div>
+<!-- Social-Section:END -->
 
 
 <!-- Projects Section -->
