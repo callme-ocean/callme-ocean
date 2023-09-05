@@ -19,6 +19,7 @@
 
 <!-- --- -->
 
+<!-- Hero-Section:START -->
 <div>
   <img src="myStickers/hi.png" height="400px" />
 
@@ -30,7 +31,7 @@
 
   </div>
 </div>
-
+<!-- Hero-Section:END -->
 
 <!-- Old About Me -->
 <!-- <div align="left">
