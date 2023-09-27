@@ -256,7 +256,7 @@ me<img align="center" src="gif/handshake.gif" height="32px">
 <div align="center">
 
 [//]: # ([![GitHub Streak]&#40;https://streak-stats.demolab.com?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744&#41;]&#40;https://git.io/streak-stats&#41;)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)](https://github-readme-streak-stats.herokuapp.com/?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)
 </div>
 <!-- Github-Stats-Section:END -->
 
