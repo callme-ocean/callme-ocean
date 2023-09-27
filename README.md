@@ -255,8 +255,8 @@ me<img align="center" src="gif/handshake.gif" height="32px">
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)](https://git.io/streak-stats)
-
+[//]: # ([![GitHub Streak]&#40;https://streak-stats.demolab.com?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744&#41;]&#40;https://git.io/streak-stats&#41;)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)](https://git.io/streak-stats)
 </div>
 <!-- Github-Stats-Section:END -->
 
@@ -266,6 +266,18 @@ me<img align="center" src="gif/handshake.gif" height="32px">
 <h2 align="center"> ⋆ My Latest Blogs ⋆ </h2>
 <div align="center">
   <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.oceanbytes.in/browsing-in-the-shadows-a-guide-to-online-anonymity/"><img width="140px" src="https://www.oceanbytes.in/storage/2023/09/anonymous.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.oceanbytes.in/browsing-in-the-shadows-a-guide-to-online-anonymity/">Browsing in the Shadows: A Guide to Online Anonymity
+        </a> <strong>| Sep 14, 2023</strong>
+        <br> 
+        In the digital age, convenience and privacy often stand at opposite ends of the spectrum. It’s a frustrating reality: the easier something...
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://www.oceanbytes.in/load-balancers-decoded-optimizing-performance-and-reliability/"><img width="140px" src="blogScreenshots/load-balancer.webp">
