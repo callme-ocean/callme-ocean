@@ -239,9 +239,9 @@ me<img align="center" src="gif/handshake.gif" height="32px">
 <h2 align="center"> ⋆ My Github Stats ⋆ </h2>
 
 <div align="center">
-  <a href="https://github.com/callme-ocean">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=callme-ocean&theme=dark&show_icons=true&title_color=fd6744&text_color=ffffff&icon_color=fd6744" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callme-ocean&theme=dark&layout=compact&title_color=fd6744&text_color=ffffff&icon_color=fd6744" />
+  <a href="https://github.com/sagarbhadouria">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sagarbhadouria&theme=dark&show_icons=true&title_color=fd6744&text_color=ffffff&icon_color=fd6744" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbhadouria&theme=dark&layout=compact&title_color=fd6744&text_color=ffffff&icon_color=fd6744" />
   </a>
 </div>
 
@@ -249,14 +249,14 @@ me<img align="center" src="gif/handshake.gif" height="32px">
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=callme-ocean&bg_color=131314&color=fd6744&line=ffffff&point=fd6744)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagarbhadouria&bg_color=131314&color=fd6744&line=ffffff&point=fd6744)
 
 </div>
 
 <div align="center">
 
 [//]: # ([![GitHub Streak]&#40;https://streak-stats.demolab.com?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744&#41;]&#40;https://git.io/streak-stats&#41;)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)](https://github-readme-streak-stats.herokuapp.com/?user=callme-ocean&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagarbhadouria&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)](https://github-readme-streak-stats.herokuapp.com/?user=sagarbhadouria&theme=dark&ring=FD6744&currStreakLabel=FD6744&dates=FFFFFF&sideLabels=FD6744&sideNums=FFFFFF&fire=FD6744)
 </div>
 <!-- Github-Stats-Section:END -->
 
